@@ -1,0 +1,94 @@
+/*! 
+ * Template Name: Orbit - Bootstrap 5 Resume/CV Template for Developers
+ * Version: Bootstrap 5 v2.0
+ * Author: Xiaoying Riley
+ * Copyright: 3rd Wave Media
+ * Twitter: @3rdwave_themes
+ * Website: http://themes.3rdwavemedia.com/
+*/
+body {
+  font-family: "Roboto", sans-serif;
+  color: #545E6C;
+  background: #040404;
+  font-size: 14px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.level-title{
+  color:#727171 ;
+  font-family: Inter, sans-serif;
+  font-weight: 500;
+}
+
+
+
+
+a {
+  color: #35776d;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+  color: #1d423c;
+  -webkit-transition: all 0.4s ease-in-out;
+  -moz-transition: all 0.4s ease-in-out;
+  -ms-transition: all 0.4s ease-in-out;
+  -o-transition: all 0.4s ease-in-out;
+}
+a:focus {
+  text-decoration: none;
+}
+
+p {
+  line-height: 1.5;
+}
+
+.wrapper {
+  background: #27d238;
+  max-width: 960px;
+  margin: 0 auto;
+  position: relative;
+  -webkit-box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+
+
+.
+
+.skillset .item {
+  margin-bottom: 1px;
+  overflow: hidden;
+}
+.skillset .level-title {
+  font-size: 14px;
+  margin-top: 0;
+  margin-bottom: 12px;
+  text-transform: capitalize;
+}
+.skillset .level-bar {
+  height: 12px;
+  background: #f5f5f5;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  -ms-border-radius: 2px;
+  -o-border-radius: 2px;
+  border-radius: 2px;
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
+  border-radius: 2cm;
+}
+.skillset .theme-progress-bar {
+  background: #20c020;
+  border-radius: 0.2cm;
+}
+
+
+h2{
+  text-transform: uppercase;
+  font-weight: 900;
+  font-family:Inter, sans-serif;
+;
+}
